@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\views\\vvdcomputers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:views\\vvdcomputers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\models\\vvdcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:models\\vvdcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\views\\shared\\_vvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:views\\shared\\_vvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\controllers\\vvdcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:controllers\\vvdcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\models\\vvdcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:models\\vvdcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\controllers\\vvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:controllers\\vvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\views\\vvdhome\\vvdcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:views\\vvdhome\\vvdcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|d:\\netcore_mvc\\netcore-web-mvc-\\vuvandoan_231230746_de01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3595C2-4D4B-4372-B0B5-629E98F53F3A}|VuVanDoan_231230746_de01.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T01:16:04.545Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\VvdComputers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\VvdComputers\\Index.cshtml",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\VvdComputers\\Index.cshtml*",
+              "RelativeToolTip": "Views\\VvdComputers\\Index.cshtml*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:55:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_VvdLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\Shared\\_VvdLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_VvdLayout.cshtml",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\Shared\\_VvdLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_VvdLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:45:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VvdComputersController.cs",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Controllers\\VvdComputersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VvdComputersController.cs",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Controllers\\VvdComputersController.cs",
+              "RelativeToolTip": "Controllers\\VvdComputersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:44:58.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VvdComputerContext.cs",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Models\\VvdComputerContext.cs",
+              "RelativeDocumentMoniker": "Models\\VvdComputerContext.cs",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Models\\VvdComputerContext.cs",
+              "RelativeToolTip": "Models\\VvdComputerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:08:11.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VvdComputer.cs",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Models\\VvdComputer.cs",
+              "RelativeDocumentMoniker": "Models\\VvdComputer.cs",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Models\\VvdComputer.cs",
+              "RelativeToolTip": "Models\\VvdComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:06:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:03:42.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VvdContact.cshtml",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\vvdHome\\VvdContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\vvdHome\\VvdContact.cshtml",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\vvdHome\\VvdContact.cshtml",
+              "RelativeToolTip": "Views\\vvdHome\\VvdContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:02:20.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:52:00.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:51:55.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vvdHomeController.cs",
+              "DocumentMoniker": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Controllers\\vvdHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\vvdHomeController.cs",
+              "ToolTip": "D:\\NetCore_MVC\\NetCore-web-mvc-\\VuVanDoan_231230746_de01\\Controllers\\vvdHomeController.cs",
+              "RelativeToolTip": "Controllers\\vvdHomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:46:17.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

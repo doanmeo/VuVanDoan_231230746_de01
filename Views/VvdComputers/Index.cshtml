@@ -1,0 +1,73 @@
+﻿@* Model của bạn: VuVanDoan_231230746_de01.Models.VvdComputer
+   Thuộc tính của bạn: vvdComName, vvdComPrice, vvdComStatus, vvdComId
+*@
+@model IEnumerable<VuVanDoan_231230746_de01.Models.VvdComputer>
+
+@{
+    ViewData["Title"] = "Danh sách máy tính";
+}
+
+<h1 class="display-4">@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">
+        <i class="fas fa-plus"></i> Thêm máy tính mới
+    </a>
+</p>
+
+<table class="table table-striped table-hover table-bordered">
+
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @* ĐÃ SỬA: model.First().vvdComName *@
+                @Html.DisplayNameFor(model => model.First().vvdComName)
+            </th>
+            <th class="text-end">
+                @Html.DisplayNameFor(model => model.First().vvdComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().vvdComImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().vvdComStatus)
+            </th>
+            <th style="width: 150px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @* ĐÃ SỬA: item.vvdComName *@
+                    @Html.DisplayFor(modelItem => item.vvdComName)
+                </td>
+                <td class="text-end">
+                    @Html.DisplayFor(modelItem => item.vvdComPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.vvdComImage)
+                </td>
+                <td>
+                    @* YÊU CẦU 4: Hiển thị "Còn hàng" / "Hết hàng" *@
+                    @* ĐÃ SỬA: item.vvdComStatus *@
+                    @if (item.vvdComStatus == true)
+                    {
+                        <span class="badge bg-success">Còn hàng</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Hết hàng</span>
+                    }
+                </td>
+                <td class="text-center">
+                    @* ĐÃ SỬA: item.vvdComId *@
+                    <a asp-action="Edit" asp-route-id="@item.vvdComId" class="btn btn-warning btn-sm" title="Sửa">Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.vvdComId" class="btn btn-info btn-sm" title="Xem">Xem</a>
+                    <a asp-action="Delete" asp-route-id="@item.vvdComId" class="btn btn-danger btn-sm" title="Xóa">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

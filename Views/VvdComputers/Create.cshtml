@@ -1,0 +1,48 @@
+﻿@model VuVanDoan_231230746_de01.Models.VvdComputer
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>VvdComputer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="vvdComName" class="control-label"></label>
+                <input asp-for="vvdComName" class="form-control" />
+                <span asp-validation-for="vvdComName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="vvdComPrice" class="control-label"></label>
+                <input asp-for="vvdComPrice" class="form-control" />
+                <span asp-validation-for="vvdComPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="vvdComImage" class="control-label"></label>
+                <input asp-for="vvdComImage" class="form-control" />
+                <span asp-validation-for="vvdComImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="vvdComStatus" class="control-label"></label>
+                <input asp-for="vvdComStatus" class="form-control" />
+                <span asp-validation-for="vvdComStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
